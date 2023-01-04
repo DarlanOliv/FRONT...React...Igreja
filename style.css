@@ -1,0 +1,32 @@
+body{
+    background-color: blue;
+}
+
+.layout{
+    background-color: lightgrey;
+}
+
+.topo{
+    border-width: 2px;
+    border-color: crimson;
+    border-style: solid;
+}
+
+.fonts{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: blueviolet;
+    font-size: 34px;
+    
+}
+
+.frontal{
+    background-image: url(./imagens/background-images.jpg);
+    width: 100%;
+    height: 530px;
+    
+}
+
+.palavra{
+    
+}
