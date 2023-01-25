@@ -4,29 +4,30 @@ body{
 
 .layout{
     background-color: lightgrey;
+    height: 570px;
 }
 
-.topo{
-    border-width: 2px;
-    border-color: crimson;
-    border-style: solid;
+
+.logo{
+    background-color: chartreuse;
+    margin-bottom: auto;
+    
 }
 
-.fonts{
+.navegacao{
+    float: left;
+    margin-left: 90px;
+}
+
+.frase{
+    background-color: aqua;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     color: blueviolet;
     font-size: 34px;
+    padding-top: 40px;
+    padding-bottom: 40px;
     
 }
 
-.frontal{
-    background-image: url(./imagens/background-images.jpg);
-    width: 100%;
-    height: 530px;
-    
-}
 
-.palavra{
-    
-}
