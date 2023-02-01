@@ -1,33 +1,24 @@
-body{
-    background-color: blue;
-}
 
-.layout{
-    background-color: lightgrey;
+.principal{
+    background-color: rgb(180, 103, 103);
     height: 570px;
-}
-
-
-.logo{
-    background-color: chartreuse;
-    margin-bottom: auto;
     
+
+}
+.lista{
+    background-color: forestgreen;
+    margin: auto;
+    display: flex;
+    gap: 100px;
+    flex-direction: row;
+    justify-content: flex-start;
+    height: 70px;
 }
 
-.navegacao{
-    float: left;
-    margin-left: 90px;
-}
 
-.frase{
-    background-color: aqua;
-    font-family: Arial, Helvetica, sans-serif;
+.lista-item{
+    border-radius: 20px;
+    padding: 10px;
+    width: 25%;
     text-align: center;
-    color: blueviolet;
-    font-size: 34px;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    
 }
-
-
